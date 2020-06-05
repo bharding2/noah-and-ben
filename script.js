@@ -2,7 +2,7 @@ var rootElement = document.getElementById('root');
 
 function Book(title, author, pageCount) {
   this.title = title;
-  this.author = author,
+  this.author = author;
   this.pageCount = pageCount;
 
   this.createBook = function(parentElement) {
@@ -49,7 +49,7 @@ function createBook(book, parentElement) {
   bookElement.appendChild(authorElement);
 
   parentElement.appendChild(bookElement);
-}
+};
 
 book1.createBook(rootElement);
 createBook(book2, rootElement);
