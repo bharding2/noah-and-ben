@@ -1,0 +1,12 @@
+.book {
+  border: 1px solid lime;
+  width: 40px;
+  height: 300px;
+  padding: 10px;
+}
+
+.title {
+  width: 100px;
+  transform-origin: left;
+  transform: rotate(90deg);
+}
