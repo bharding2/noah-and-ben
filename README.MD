@@ -6,6 +6,8 @@ Data Structures
   - Object Oriented Programming (constructor function, initiating objects with new keyword)
 
 Why Javascript is great
+  - language of the web.  the ONLY language native to web browsers
+  - increasingly used outside of the browser with the advent of node.js (chrome's javascript processor brought out of the browser so you can use it anywhere, even from the command line)
 
 Resources
   - MDN mozilla develepment network, how to learn about the inner workings of the web and browsers
